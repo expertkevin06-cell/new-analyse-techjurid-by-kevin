@@ -82,7 +82,7 @@ export class DatabaseService extends Dexie {
 
     private async fetchJuridiqueData(): Promise<Juridique[]> {
         try {
-            const response = await fetch('/data/juridique-massive.json');
+            const response = await fetch(`${import.meta.env.BASE_URL}data/juridique-massive.json`);
             return await response.json();
         } catch {
             return [
