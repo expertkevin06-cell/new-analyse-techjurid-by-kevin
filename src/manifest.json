@@ -1,0 +1,27 @@
+{
+  "name": "Expert Auto Pro Unifié",
+  "short_name": "ExpertAuto",
+  "description": "Application de diagnostic automobile et expertise juridique",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1a1a1a",
+  "background_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "permissions": {
+    "notifications": true,
+    "storage": true,
+    "network": true
+  }
+}
