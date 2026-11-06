@@ -63,7 +63,7 @@ export class DatabaseService extends Dexie {
 
     private async fetchPannesData(): Promise<Panne[]> {
         try {
-            const response = await fetch('/data/pannes-massive.json');
+            const response = await fetch(`${import.meta.env.BASE_URL}data/pannes-massive.json`);
             return await response.json();
         } catch {
             // Données de fallback
