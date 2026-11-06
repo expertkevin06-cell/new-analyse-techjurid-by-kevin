@@ -1,0 +1,102 @@
+[
+  {
+    "code": "P0300",
+    "symptome": "Ratés d'allumage aléatoires / multiples cylindres",
+    "composant": "Bougies d'allumage",
+    "systeme": "Moteur",
+    "marque": "Toutes marques",
+    "gravite": "important",
+    "solution": "Vérifier et remplacer les bougies d'allumage. Contrôler les bobines.",
+    "juridique": "Peut relever de la garantie légale de conformité si véhicule récent"
+  },
+  {
+    "code": "P0401",
+    "symptome": "Vanne EGR - Flux insuffisant",
+    "composant": "Vanne EGR",
+    "systeme": "Échappement / FAP / Catalyseur",
+    "marque": "Toutes marques",
+    "gravite": "important",
+    "solution": "Nettoyer ou remplacer la vanne EGR. Vérifier les durites.",
+    "juridique": "Vice caché possible si défaut récurrent sur modèle connu"
+  },
+  {
+    "code": "P0420",
+    "symptome": "Catalyseur - Efficacité en dessous du seuil",
+    "composant": "Catalyseur",
+    "systeme": "Échappement / FAP / Catalyseur",
+    "marque": "Toutes marques",
+    "gravite": "important",
+    "solution": "Remplacer le catalyseur. Vérifier les sondes lambda.",
+    "juridique": "Garantie anti-corrosion/perforation souvent applicable"
+  },
+  {
+    "code": "P0299",
+    "symptome": "Turbo - Pression de suralimentation insuffisante",
+    "composant": "Turbo",
+    "systeme": "Moteur",
+    "marque": "Toutes marques",
+    "gravite": "critique",
+    "solution": "Vérifier le turbo, wastegate, durites, échangeur.",
+    "juridique": "Vice caché fréquent - action en justice possible"
+  },
+  {
+    "code": "P2463",
+    "symptome": "FAP - Colmatage du filtre à particules",
+    "composant": "Filtre à particules (FAP)",
+    "systeme": "Échappement / FAP / Catalyseur",
+    "marque": "Toutes marques",
+    "gravite": "important",
+    "solution": "Régénération forcée ou remplacement. Vérifier usage urbain.",
+    "juridique": "Usage inadapté possible mais défaut de conception sur certains modèles"
+  },
+  {
+    "code": "P0100",
+    "symptome": "Débitmètre d'air - Circuit défaillant",
+    "composant": "Débitmètre",
+    "systeme": "Électronique / Calculateurs",
+    "marque": "Toutes marques",
+    "gravite": "modere",
+    "solution": "Nettoyer ou remplacer le débitmètre. Vérifier prise d'air.",
+    "juridique": "Pièce d'usure normale généralement"
+  },
+  {
+    "code": "P0562",
+    "symptome": "Tension système batterie basse",
+    "composant": "Batterie 12V",
+    "systeme": "Batterie & BMS",
+    "marque": "Toutes marques",
+    "gravite": "important",
+    "solution": "Tester la batterie, vérifier alternateur et courroie.",
+    "juridique": "Pièce d'usure sauf si défaut récurrent prématuré"
+  },
+  {
+    "code": "P0A80",
+    "symptome": "Batterie haute tension - Remplacement requis",
+    "composant": "Batterie haute tension (véhicule électrique)",
+    "systeme": "Batterie & BMS",
+    "marque": "Toutes marques",
+    "gravite": "critique",
+    "solution": "Diagnostic BMS complet. Remplacement batterie HT.",
+    "juridique": "Garantie constructeur 8 ans/160000km obligatoire en UE"
+  },
+  {
+    "code": "P0087",
+    "symptome": "Pression de rampe carburant trop basse",
+    "composant": "Pompe à injection",
+    "systeme": "Moteur",
+    "marque": "Toutes marques",
+    "gravite": "critique",
+    "solution": "Vérifier pompe HP, injecteurs, régulateur de pression.",
+    "juridique": "Vice caché possible sur moteurs diesel haute pression"
+  },
+  {
+    "code": "P0010",
+    "symptome": "Distribution - Position arbre à cames",
+    "composant": "Chaîne de distribution",
+    "systeme": "Moteur",
+    "marque": "Toutes marques",
+    "gravite": "critique",
+    "solution": "Vérifier chaîne/tendeur/guides. Remplacement si nécessaire.",
+    "juridique": "Vice caché majeur - nombreuses jurisprudences favorables"
+  }
+]
