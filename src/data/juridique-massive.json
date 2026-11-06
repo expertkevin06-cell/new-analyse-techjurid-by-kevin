@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Vice caché",
+    "article": "Art. 1641 Code Civil",
+    "description": "Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine.",
+    "jurisprudence": "Cass. 1ère civ., 15 mars 2023 - Défaut de distribution = vice caché"
+  },
+  {
+    "type": "Vice caché",
+    "article": "Art. 1644 Code Civil",
+    "description": "L'acheteur a le choix de rendre la chose et se faire restituer le prix, ou de garder la chose et se faire rendre une partie du prix.",
+    "jurisprudence": "Cass. 1ère civ., 12 janv. 2024 - Résolution vente pour casse moteur prématurée"
+  },
+  {
+    "type": "Garantie légale de conformité",
+    "article": "Art. L217-4 Code Conso",
+    "description": "Le vendeur est tenu de la garantie légale de conformité et s'engage à ce titre à livrer un bien conforme au contrat.",
+    "jurisprudence": "CJUE, 24 mars 2022 - Présomption d'antériorité étendue à 24 mois"
+  },
+  {
+    "type": "Garantie constructeur",
+    "article": "Garantie contractuelle",
+    "description": "Garantie minimale légale de 2 ans sur les véhicules neufs en Europe.",
+    "jurisprudence": "Cass. com., 8 nov. 2023 - Obligation de réparation même hors garantie"
+  },
+  {
+    "type": "Responsabilité du fait des produits",
+    "article": "Art. 1245 Code Civil",
+    "description": "Le producteur est responsable du dommage causé par un défaut de son produit.",
+    "jurisprudence": "Cass. 2ème civ., 5 oct. 2023 - Défaut de conception = responsabilité constructeur"
+  },
+  {
+    "type": "Obligation de délivrance",
+    "article": "Art. 1603 Code Civil",
+    "description": "Le vendeur est tenu de délivrer la chose conforme à ce qui a été convenu.",
+    "jurisprudence": "CA Paris, 15 fév. 2024 - Non-conformité véhicule d'occasion"
+  },
+  {
+    "type": "Dol",
+    "article": "Art. 1137 Code Civil",
+    "description": "Le dol est constitué lorsqu'un contractant obtient le consentement de l'autre par des manœuvres ou des mensonges.",
+    "jurisprudence": "Cass. 1ère civ., 20 sept. 2023 - Dissimulation accident grave = dol"
+  },
+  {
+    "type": "Prescription",
+    "article": "Art. 2224 Code Civil",
+    "description": "Les actions personnelles ou mobilières se prescrivent par 5 ans à compter du jour où le titulaire d'un droit a connu les faits.",
+    "jurisprudence": "Cass. 1ère civ., 10 janv. 2024 - Point de départ = découverte du vice"
+  },
+  {
+    "type": "Expertise judiciaire",
+    "article": "Art. 145 Code Procédure Civile",
+    "description": "S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige.",
+    "jurisprudence": "CA Lyon, 3 mars 2024 - Expertise obligatoire avant action au fond"
+  },
+  {
+    "type": "Mise en demeure",
+    "article": "Art. 1344 Code Civil",
+    "description": "Le débiteur est mis en demeure de payer soit par une sommation ou un acte portant interpellation suffisante.",
+    "jurisprudence": "Cass. 2ème civ., 18 janv. 2024 - LRAR obligatoire avant assignation"
+  }
+]
